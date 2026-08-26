@@ -1,7 +1,7 @@
 [package]
 name = "krxzy-zion-code/middleware"
 description = "An ordered middleware pipeline for Roblox Luau applications."
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 authors = ["toxixsuff"]
 realm = "shared"
